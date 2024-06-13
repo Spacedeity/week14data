@@ -12,3 +12,6 @@
 
 # week 15 assignment.
 # https://docs.google.com/document/d/1vSoOTGAoBW4n4ohcw5NOfn6JeFO6IoVOJ8NVShCOyAE/edit?usp=sharing
+
+# week 1 assignment pitchdesk
+# https://docs.google.com/presentation/d/1K6KPTa05NEk6xuhbRuq2rdEIiiPKDrdooMfFTWVeRKU/edit#slide=id.g723630543_3_0
