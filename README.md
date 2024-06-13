@@ -9,3 +9,6 @@
 # The data should also be sorted out if its a "movie/ tv show".
 # One should also be able to search for movies pr shows in a specific coutry.
 # The rating  should also be sorted out propery for easier searching by customers.
+
+# week 15 assignment.
+# https://docs.google.com/document/d/1vSoOTGAoBW4n4ohcw5NOfn6JeFO6IoVOJ8NVShCOyAE/edit?usp=sharing
